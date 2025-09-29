@@ -1,14 +1,12 @@
 🚀 React Deployment Demo
 
-Open Source App: This project is an open-source React application used to demonstrate deployment to Vercel.
-(I did not develop the app itself, but I successfully deployed it.)
+Open Source App: This project is an open-source React application used to demonstrate deployment to Vercel. (I did not develop the app itself, but I successfully deployed it.)
 
-🌐 Live Demo: https://react-deploy-vercel-demo-ten.vercel.app
+🌐 Live Demo: [https://react-deploy-vercel-demo-ten.vercel.app](https://react-deploy-vercel-demo-ten.vercel.app)
 
 🎯 Purpose
 
-This repository showcases my ability to deploy React applications to production environments using Vercel.
-It serves as a proof-of-concept for clients who want their applications deployed professionally and reliably.
+This repository showcases my ability to deploy React applications to production environments using Vercel. It serves as a proof-of-concept for clients who want their applications deployed professionally and reliably.
 
 👥 Who This Is For
 
@@ -30,11 +28,11 @@ Ready for integration with custom projects
 
 🖼 Screenshots
 
-Desktop View https://github.com/KanchanMehta/react-deploy-vercel-demo--/raw/main/desktop.png
+Desktop View  
+![Desktop Screenshot](https://github.com/KanchanMehta/react-vercel-demo--/raw/main/desktop.png)
 
-
-Mobile View https://github.com/KanchanMehta/react-deploy-vercel-demo--/raw/main/mobile.png.jpg
-
+Mobile View  
+![Mobile Screenshot](https://github.com/KanchanMehta/react-vercel-demo--/raw/main/mobile.png)
 
 ⚙️ Technical Details
 
@@ -52,22 +50,20 @@ ESLint properly configured for React 18 compatibility
 
 Clone the repository:
 
+```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-
-
 Install dependencies:
 
+bash
+Copy code
 npm install
-
-
 Build the project:
 
+bash
+Copy code
 npm run build
-
-
 Deploy to Vercel (or another hosting platform) using the build output.
 
 📝 Notes
 
-This project is open source, and the code belongs to the original author.
-My contribution is the deployment and environment setup, which demonstrates my expertise in taking React apps to production.
+This project is open source, and the code belongs to the original author. My contribution is the deployment and environment setup, which demonstrates my expertise in taking React apps to production.
