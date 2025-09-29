@@ -33,7 +33,7 @@ Ready for integration with custom projects
 Desktop View https://github.com/KanchanMehta/react-deploy-vercel-demo--/raw/main/desktop.png
 
 
-Mobile View (https://github.com/KanchanMehta/react-deploy-vercel-demo--/raw/main/mobile.png.jpg)
+Mobile View https://github.com/KanchanMehta/react-deploy-vercel-demo--/raw/main/mobile.png.jpg
 
 
 ⚙️ Technical Details
