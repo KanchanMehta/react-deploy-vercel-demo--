@@ -28,11 +28,9 @@ Ready for integration with custom projects
 
 🖼 Screenshots
 
-Desktop View  
-![Desktop Screenshot](https://github.com/KanchanMehta/react-vercel-demo--/raw/main/desktop.png)
+Desktop View https://github.com/KanchanMehta/react-vercel-demo--/raw/main/desktop.png
 
-Mobile View  
-![Mobile Screenshot](https://github.com/KanchanMehta/react-vercel-demo--/raw/main/mobile.png)
+Mobile View https://github.com/KanchanMehta/react-vercel-demo--/raw/main/mobile.png
 
 
 ⚙️ Technical Details
