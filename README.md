@@ -30,10 +30,10 @@ Ready for integration with custom projects
 
 🖼 Screenshots
 
-Desktop View 
+Desktop View https://github.com/KanchanMehta/react-deploy-vercel-demo--/blob/main/desktop.png
 
 
-Mobile View
+Mobile View https://github.com/KanchanMehta/react-deploy-vercel-demo--/blob/main/mobile.png.jpg
 
 
 ⚙️ Technical Details
