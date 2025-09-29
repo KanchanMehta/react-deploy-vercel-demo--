@@ -34,6 +34,7 @@ Desktop View
 Mobile View  
 ![Mobile Screenshot](https://github.com/KanchanMehta/react-vercel-demo--/raw/main/mobile.png)
 
+
 ⚙️ Technical Details
 
 React 18
@@ -50,18 +51,16 @@ ESLint properly configured for React 18 compatibility
 
 Clone the repository:
 
-```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+
 Install dependencies:
 
-bash
-Copy code
 npm install
+
 Build the project:
 
-bash
-Copy code
 npm run build
+
 Deploy to Vercel (or another hosting platform) using the build output.
 
 📝 Notes
